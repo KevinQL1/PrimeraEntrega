@@ -1,0 +1,6 @@
+projectKey=PrimeraEntrega
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=PrimeraEntrega
+ceTaskId=AYd2Jsq6Q7tbupLFCLHw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYd2Jsq6Q7tbupLFCLHw
